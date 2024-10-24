@@ -1,11 +1,15 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/589664/count.svg?"  />
-</div>
 
-<div align="center">
-  <a href=#><img src="contrib_snake.svg"></a> 
-</div>
 
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="contrib_snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="contrib_snake.svg" />
+  <img alt="github-snake" src="contrib_snake.svg" />
+</picture>
+</div>
 <!--
 **589664/589664** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
